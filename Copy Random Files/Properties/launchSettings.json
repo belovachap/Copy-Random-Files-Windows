@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Copy Random Files (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Copy Random Files (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
