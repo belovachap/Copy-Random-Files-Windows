@@ -10,7 +10,7 @@
   <Identity
     Name="ChapmanShoop.CopyRandomFiles"
     Publisher="CN=67A6C775-61FC-497E-9113-7A0F6A900075"
-    Version="1.0.3.0" />
+    Version="1.0.5.0" />
 
   <mp:PhoneIdentity PhoneProductId="5b7cd9f1-83cf-4a60-b547-9f373d465c8b" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
